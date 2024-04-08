@@ -10,3 +10,4 @@ Requires-Dist: seaborn
 Requires-Dist: flask
 Requires-Dist: typing
 Requires-Dist: scikit-learn
+Requires-Dist: pickles
